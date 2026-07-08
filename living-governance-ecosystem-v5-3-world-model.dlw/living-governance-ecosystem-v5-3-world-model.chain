@@ -4,6 +4,6 @@ slug  : living-governance-ecosystem-v5-3-world-model
 seal  : c36824028b5ec76aac06590eb92905a033c8f3f48b27059fbd61cc22bc6b1169
 prev  : 8535de0772448bc758f0185a5d6e3dec98d02ceb5b262dd135c2dda9f6f5016a
 link  : afd1db35585e5b9e469509e0cae0f554c509ba006933bec047b34308199b678f
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
